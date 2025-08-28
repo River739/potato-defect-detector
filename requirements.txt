@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# Deep Learning
+torch
+torchvision
+tqdm
+
+# Web App
+flask
+jinja2
+
+# Notebooks
+jupyter
+notebook
+
+# Testing
+pytest
