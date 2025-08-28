@@ -1,7 +1,7 @@
 typing-extensions
 numpy
 matplotlib
-tensorflow
+pytorch
 scikit-learn
 pyyaml
 h5py
