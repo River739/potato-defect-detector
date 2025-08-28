@@ -1,0 +1,11 @@
+typing-extensions
+numpy
+matplotlib
+tensorflow
+scikit-learn
+pyyaml
+h5py
+opencv-python
+albumentations
+pydot
+graphviz
